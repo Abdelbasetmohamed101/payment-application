@@ -1,0 +1,22 @@
+﻿  Application.c
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(24,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(30,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(36,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(48,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(64,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(70,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(76,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(82,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(88,11): warning C4098: 'appStart': 'void' function returning a value
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Application\Application.c(94,11): warning C4098: 'appStart': 'void' function returning a value
+  terminal.c
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Terminal\terminal.c(136,18): warning C4267: '=': conversion from 'size_t' to 'uint16_t', possible loss of data
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\Terminal\terminal.c(206,20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  card.c
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\card\card.c(32,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\card\card.c(77,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  main.c
+  server.c
+  Generating Code...
+C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\server\server.c(82): warning C4715: 'isBlockedAccount': not all control paths return a value
+  payment system1.vcxproj -> C:\Users\ELMADINA\Desktop\visual studio projects\payment system1\x64\Debug\payment system1.exe
